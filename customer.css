@@ -1,0 +1,44 @@
+body{
+    font-family: 'lucida bright', sans-serif;
+    background-color: rgb(243, 236, 236);
+}
+
+/* navbar css starts here  */
+.bg-light{
+    background-color: #da9e5a!important;
+}
+
+.navbar-brand{
+    font-family: 'Bradley Hand', cursive;
+    font-size: 2.5rem;
+    color: hsl(214, 19%, 17%)!important;
+    text-align: center;
+}
+
+.nav-link{
+    color: hsl(0, 4%, 9%)!important;
+    font-family: 'Arial Narrow', sans-serif;
+
+}
+
+.nav-link:hover{
+    background-color: #f3f1f1;
+}
+/* navbar css ends here  */
+
+.my-info{
+    padding: 2rem 5rem;
+}
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color: rgb(31, 99, 189)!important;
+    color: #fff!important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+}
+
+.btn-info:hover{
+    background-color: rgb(155, 27, 101)!important;
+}
